@@ -1,0 +1,3 @@
+/home/ahmad/ClionProjects/New/TST/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ahmad/ClionProjects/New/TST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ahmad/ClionProjects/New/TST/cmake-build-debug/CMakeFiles/TST.dir

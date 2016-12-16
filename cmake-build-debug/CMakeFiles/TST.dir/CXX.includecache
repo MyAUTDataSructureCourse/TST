@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmad/ClionProjects/New/TST/TST.cpp
+TST.h
+/home/ahmad/ClionProjects/New/TST/TST.h
+algorithm
+-
+iostream
+-
+
+/home/ahmad/ClionProjects/New/TST/TST.h
+string
+-
+
+/home/ahmad/ClionProjects/New/TST/main.cpp
+iostream
+-
+TST.h
+/home/ahmad/ClionProjects/New/TST/TST.h
+
